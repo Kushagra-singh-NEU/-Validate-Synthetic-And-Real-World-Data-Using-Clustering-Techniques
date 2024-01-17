@@ -15,9 +15,4 @@ This project implements K-means and hierarchical clustering methods on synthetic
 - **Clustering Accuracy:** 85%
 - **Silhouette Score (World Indicator Dataset):** 0.75
 
-## Project Structure
-
-- `src/`: Contains the source code for clustering algorithms.
-- `data/`: Includes synthetic and real-world datasets.
-- `results/`: Holds generated scatter plots and validation metrics.
 
